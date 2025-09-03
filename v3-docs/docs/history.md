@@ -80,7 +80,6 @@ If you find any issues, please report them to the [Meteor issues tracker](https:
 
 ✨✨✨
 
-
 ## v3.3.1, 05-08-2025
 
 ### Highlights
