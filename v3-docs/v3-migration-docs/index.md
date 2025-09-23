@@ -14,11 +14,7 @@ This guide is for users with Meteor 2.x projects understand the changes between 
 
 ## What's the status of version 3.0?
 
-Meteor 3.0 is currently in its official version!
-
-**Latest version:** `{{ $frontmatter.meteor_version }}` <br/>
-**Node.js version:** `{{ $frontmatter.node_version }} LTS` <br/>
-**NPM version:** `{{ $frontmatter.npm_version }}`
+Meteor 3.0 is currently in its official version. [Check the documentation for the latest version information.](https://docs.meteor.com/)
 
 ## How to try Meteor 3.0?
 
